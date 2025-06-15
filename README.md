@@ -1,9 +1,8 @@
 
- Vintage Teaset 3D Model for GameDev
+ # Roz Robot High-Poly 3D Model
 
 ![Project Preview](https://github.com/RgAnna/wild-robot-3d-models/blob/main/wild-robot-3d-model_02.png)
 
-# Roz Robot High-Poly 3D Model
 
 High-poly hard surface 3D model of Roz robot from the animated adaptation "The Wild Robot". Designed for detailed visualization, cinematic rendering, and digital sculpting workflows.
 
