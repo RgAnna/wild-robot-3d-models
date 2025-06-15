@@ -1,7 +1,7 @@
 
  Vintage Teaset 3D Model for GameDev
 
-![Project Preview](https://github.com/RgAnna/vintage-teaset-3d/blob/main/vintage-teaset-3d.png)
+![Project Preview](https://github.com/RgAnna/wild-robot-3d-models/blob/main/wild-robot-3d-model_02.png)
 
 # Roz Robot High-Poly 3D Model
 
