@@ -1,5 +1,5 @@
 
- # Roz Robot High-Poly 3D Model
+ ## Roz Robot High-Poly 3D Model
 
 ![Project Preview](https://github.com/RgAnna/wild-robot-3d-models/blob/main/wild-robot-3d-model_02.png)
 
@@ -12,7 +12,7 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 
 ## Specifications
 
-- Polygon count: [укажи количество трис/полигонов]  
+- Polygon count: 3.338.560 tris 
 - Model type: Hard surface  
 - Model formats: FBX, OBJ, BLEND  
 - Textures: Albedo, Normal, Roughness, Ambient Occlusion, Emissive (Highlight) map  
@@ -39,7 +39,7 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 
 ## Характеристики
 
-- Количество полигонов: [укажите количество трис/полигонов]
+- Количество полигонов: 3.338.560 tris 
 - Тип модели: Твердая поверхность
 - Форматы моделей: FBX, OBJ, BLEND
 - Текстуры: Альбедо, Нормаль, Шероховатость, Окружающая среда, Карта излучения (подсветки)
