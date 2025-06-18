@@ -25,7 +25,6 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 
 
 
-#############################################################################
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -57,7 +56,7 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 - Точка вращения, центрированная на основании модели
 
 
-#############################################################################
+
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -66,4 +65,3 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 [![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/rganna)
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
-#############################################################################
