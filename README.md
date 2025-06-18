@@ -33,7 +33,7 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-#############################################################################
+___
 
 # Высокополигональная 3D-модель робота Roz
 
