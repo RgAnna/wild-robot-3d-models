@@ -24,7 +24,6 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 - Pivot point centered at model base
 
 
-
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -54,7 +53,6 @@ This asset represents a detailed high-polygon model of Roz, the robot character 
 - Чистая топология с сеткой, готовой к подразделению
 - UV-развертка, подходящая для текстурирования с высоким разрешением
 - Точка вращения, центрированная на основании модели
-
 
 
 ## Контакты
